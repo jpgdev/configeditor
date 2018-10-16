@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ConfigEditor.Properties
+namespace ConfigEditor.UI.Properties
 {
 
 
